@@ -6,3 +6,5 @@ biryani
 pasta
 fish 
 chicken
+pizza 
+bread
